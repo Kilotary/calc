@@ -1,6 +1,6 @@
 from tkinter import *
 
-class CalcUI():
+class Calc():
     def __init__(self):
         self.num = [0,0,0]
         self.len = 1
